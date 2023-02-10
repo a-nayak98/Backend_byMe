@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mama",
+        "email": "mam@mail.com",
+        "id": 1
+    },
+    {
+        "name": "Baby",
+        "email": "baby@mail.com",
+        "id": 2
+    },
+    {
+        "id": "7636f997-9884-4a4f-8c65-98f39b5d8075",
+        "name": "Bebana",
+        "email": "bebana@mail.com",
+        "password": "$2a$10$A/7NAC1pIgRY7..2NBsE1ezmQKNAY5/t3mqaIUUN4oEa0RKUW.ZOC",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkSWQiOiI3NjM2Zjk5Ny05ODg0LTRhNGYtOGM2NS05OGYzOWI1ZDgwNzUiLCJpYXQiOjE2NzYwMzQ1NzMsImV4cCI6MTY3NjAzODE3M30.kjFlt_owZ5ieQhpUywcij6Fk4doHEA8-u22rKxH-bd0"
+    },
+    {
+        "id": "04dc6ef8-5d0b-45cd-81d0-7d81d8bcf344",
+        "name": "Mama",
+        "email": "mama@mail.com",
+        "password": "$2a$10$OfipychLti6w0RjDpG3VJOjZQ1Jzw06qGubMetKlqAUuqp1QJzIVO",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjoiMDRkYzZlZjgtNWQwYi00NWNkLTgxZDAtN2Q4MWQ4YmNmMzQ0IiwiaWF0IjoxNjc2MDU3MzI0LCJleHAiOjE2NzYwNjA5MjR9.3NrZnvRqPYorOUNpecb6Fqj3qc6h4UtaebyNLohw0Vk"
+    }
+]
